@@ -1,0 +1,15 @@
+{
+  "name": "nodemailer",
+  "version": "1.0.0",
+  "description": "Send Email from call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
